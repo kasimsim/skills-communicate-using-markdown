@@ -12,9 +12,12 @@ const DataSet = {
 ```
 
 This is some code!
-### h3
-This is a heading 3
+### Task List
+- [ ] Turn onf GitHub Pages
+- [ ] Inline my portfolio
+- [x] Introduce the world to myself
 #### h4
 Lorem ipsum dolor sit amet.
+
 
 
